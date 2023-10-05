@@ -1,4 +1,3 @@
-<title>Introduction | Aptissio's Emergent Coding User Guide</title>
 Introduction
 
 This is Aptissio's public documentation on the subject of 'Emergent Coding'. It's purpose is to share our learning and opinions of the topic for the benefit of the greater software development community.
